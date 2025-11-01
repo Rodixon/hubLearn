@@ -1,3 +1,5 @@
 1str
 2str
 3str
+push
+5 str push2
