@@ -3,3 +3,5 @@
 3str
 push
 5 str push2
+6 gh
+
